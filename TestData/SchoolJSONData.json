@@ -1,0 +1,11 @@
+{
+  "logInData": {
+    "username": "admin",
+    "password": "admin123",
+    "url": "http://49.249.28.218:8081/TestServer/Build/School_Faculty_System/index.php?page=home"
+  },
+  "courseListData": {
+    "course": "CE",
+    "description": "Civil Engineering"
+  }
+}
